@@ -1,0 +1,22 @@
+.container{
+    width:100%;
+    background-color : black;
+}
+.black{
+    text-align: center;
+    width: 700px;
+    height: 500px;
+    background-color: #23232E;
+    color: white;
+
+}
+.black h1 {
+    color: white;
+}
+.white {
+    text-align: center;
+    width: 700px;
+    height: 500px;
+    background-color: #FFFFFF
+
+}
